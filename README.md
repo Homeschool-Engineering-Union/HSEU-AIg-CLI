@@ -1,5 +1,14 @@
 # HSEU-AIg-CLI
-CLI version of HSEU Artifical Ignorance
+CLI version of [HSEU Artifical Ignorance](https://github.com/Homeschool-Engineering-Union/HSEU-Artifical-Ignorance-)
+
+**Dependencies:**
+ - macOS 13.5+/Windows 8.1+/Linux GCC 12.2+
+- Latest version of [Node.js](https://nodejs.org/en/download/current)
+  
+**Installation:**
+```
+npm install -g artificial-ignorance
+```
 
 ![License: Evaluation Only](https://img.shields.io/badge/License-Evaluation%20Only-red)
 ![No Production Use](https://img.shields.io/badge/No%20Production%20Use-%F0%9F%9A%AB-orange)
